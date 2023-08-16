@@ -28,3 +28,34 @@ body {
     width: 500px;
     margin: 0.5rem;
 }
+.amarillo1 {
+    background-color: yellow;
+    height: 100px;
+    width: 1000px;
+    margin: 0.5rem;
+}
+.amarillo2 {
+    background-color: yellow;
+    height: 100px;
+    width: 500px;
+    margin: 0.5rem;
+}
+.negro {
+    background-color: black;
+    height: 100px;
+    width: 500px;
+    margin: 0.5rem;
+}
+.morado {
+    background-color: purple;
+    height: 100px;
+    width: 1000px;
+    margin: 0.5rem;
+}
+.marron-con-borde-rojo {
+    background-color: brown;
+    border: 2px solid red;
+    height: 100px;
+    width: 1500px;
+    margin: 0.5rem;
+}
