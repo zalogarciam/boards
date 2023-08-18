@@ -1,61 +1,43 @@
+/* No se necesita el estilo body ni .rectangles */
 
-body {
-    display: flex;
-    flex-direction: column; 
-    align-items: center;
-}
-.rectangles {
-    display: flex; 
-    justify-content: center; 
-}
 .red-color {
     background-color: red;
     height: 100px;
-    width: 500px;
     margin: 0.5rem;
 }
 
 .blue-color {
     background-color: blue;
     height: 100px;
-    width: 500px;
     margin: 0.5rem;
 }
 
 .green-color {
     background-color: green;
     height: 100px;
-    width: 500px;
     margin: 0.5rem;
 }
-.yellow-color1 {
+
+.yellow-color {
     background-color: yellow;
     height: 100px;
-    width: 1000px;
     margin: 0.5rem;
 }
-.yellow-color2 {
-    background-color: yellow;
-    height: 100px;
-    width: 500px;
-    margin: 0.5rem;
-}
+
 .black-color {
     background-color: black;
     height: 100px;
-    width: 500px;
     margin: 0.5rem;
 }
 .purple-color {
     background-color: purple;
     height: 100px;
-    width: 1000px;
     margin: 0.5rem;
 }
+
 .brown-whit-red-border {
     background-color: brown;
     border: 2px solid red;
     height: 100px;
-    width: 1500px;
     margin: 0.5rem;
 }
